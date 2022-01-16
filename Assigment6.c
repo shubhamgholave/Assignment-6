@@ -1,4 +1,8 @@
 # Assignment-6
+
+/*Name : Shubham Gholave
+Roll no : SYITA139 */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
